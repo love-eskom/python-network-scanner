@@ -12,7 +12,17 @@ A multithreaded Python-based network port scanner built for cybersecurity learni
 - CLI argument support using argparse
 - Scan performance timing metrics
 
+## Technologies Used
+- Python 3
+- Socket Programming
+- Threading
+- JSON
+- Argparse
+
+## Disclaimer
+This tool is intended for educational and authorized security testing only.
+Do not scan systems you do not own or have permission to test.
+
 ## Example Usage
 
-```bash
 python main.py --target 127.0.0.1 --start 20 --end 100
