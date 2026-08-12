@@ -1,5 +1,10 @@
 # Python Network Scanner
+LAB-002
 
+PYTHON NETWORK SCANNER
+
+BUILD • DETECT • DEFEND
+---
 A multithreaded Python-based network port scanner built for cybersecurity learning and portfolio demonstration.
 
 ## Features
