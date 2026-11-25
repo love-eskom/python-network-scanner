@@ -1,0 +1,7 @@
+[
+    {
+        "port": 53,
+        "service": "DNS",
+        "banner": "Unknown"
+    }
+]
